@@ -1,0 +1,9 @@
+#header {
+
+    background-image: url("images/bg-hero-desktop.svg");
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+
+
+}
